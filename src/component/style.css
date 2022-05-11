@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.profilePic {
+ padding-left: 500px;
+  border-radius: 50%;
+  margin: 20px 0 90px 0;
+}
+
+.nameTag {
+    padding-left: 450px;
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  color: cadetblue;
+}
+.addressTag {
+    padding-left: 400px;
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  text-transform: uppercase;
+  color: rgb(226, 140, 60);
+}
+.disTag {
+  width: 40%;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: rgb(87, 85, 85);
+  margin: 10px auto;
+}
